@@ -3,7 +3,7 @@
 
 ## Preview
 <p align="center">
-  <img src="" alt="Dashboard Demo" width="900">
+  <img src="tableau-biker-stores-project/assets/tableau_dashboard.gif" alt="Dashboard Demo" width="900">
 </p>
 
 ## Dashboard Questions
